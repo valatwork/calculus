@@ -7,3 +7,5 @@
 # 2 - Derivatives and Differentiation
 
 [2.1 - Derivatives introduction](/project/002-derivatives-intro.ipynb)
+
+[2.2 - Derivative Notation and Derivative Rules](/project/003-derivative-notation-and-rules.ipynb))
